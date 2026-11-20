@@ -2,34 +2,36 @@
 
 **Full-Stack Software Engineer | Backend Systems | Product Engineering**
 
-I'm a Software Engineering graduate from the **University of Victoria**, based in Victoria, BC.
+I'm a 2026 Software Engineering graduate from the **University of Victoria**, based in Victoria, BC.
 
 I've built production software at **AlphaSense (Tegus)** and **Everbridge**, working across backend services, APIs, databases, and frontend applications.
-
 I enjoy working across the stack, but I'm especially interested in **backend architecture, distributed systems, and building products that solve real problems**.
 
 Currently exploring new ideas, building side projects, and looking for full-time Software Engineering opportunities.
 
-[LinkedIn](https://www.linkedin.com/in/anmol-bhalla-2b834a224) · [Email](mailto:anmolbhalla21@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anmol-bhalla-2b834a224) · [Send me an Email](mailto:anmolbhalla21@gmail.com)
 
 ---
 
 ## 💼 Experience
 
-**Software Engineering Co-op — AlphaSense (Tegus)**  
-*Sep 2025 – Apr 2026*
+### Software Engineering Co-op — AlphaSense (Tegus)
+`Sep 2025 – Apr 2026`
 
 - Built features for an AI-powered transcript workflow using Ruby on Rails, GraphQL, Vue, TypeScript, and AssemblyAI.
 - Developed backend data models, GraphQL mutations, and frontend workflows for enterprise compliance tools.
 - Improved third-party integration observability using instrumentation, Datadog, and Grafana.
 
-**Software Engineering Co-op — Everbridge**  
-*Jan 2024 – Aug 2024*
+### Software Engineering Co-op — Everbridge
+`Jan 2024 – Aug 2024`
 
 - Developed 10+ REST APIs using Java, Spring Boot, and PostgreSQL.
 - Built React/Redux features and automated tests with Jest and JUnit.
 
-**Previously:** Ocean Networks Canada — automated operational workflows, reducing manual data entry by 70%.
+ ### Operations Support Co-op - Ocean Networks Canada 
+ `Jan 2023 – April 2023`
+ - Automated operational workflows, reducing manual data entry by 70%.
+ - Handling logistics and assembly of marine sensors
 
 ---
 
@@ -45,9 +47,8 @@ An AI-powered research assistant designed to make oceanographic data more access
 - Integrated a BERT-based query classifier to route requests between retrieval-augmented generation and ONC's Oceans 3.0 API.
 - Collaborated on a hybrid architecture combining semantic search with real-time oceanographic data.
 
-[Explore the project →](https://github.com/jacksonkonkin/onc-ai-assistant)
 
-### Scalable Day Trading System
+### [Scalable Day Trading System](https://github.com/Saksham1009/Herodha)
 
 **Team Project | Node.js · MongoDB · Redis · RabbitMQ · Docker · NGINX**
 
@@ -67,15 +68,14 @@ A hands-on learning project I built while exploring the software challenges behi
 
 I wanted to get familiar with geospatial interfaces and offline-first applications, so I built a prototype featuring interactive maps, locally persisted observations, and offline-capable workflows.
 
-[View source and screenshots →](https://github.com/anmol-bhalla/firewatch-offline-field-dashboard)
 
-### Catch Me There
+### Catch Me There... 
 
-**Personal Project | Currently Cooking 👨‍🍳**
+**Personal Project | Currently Cooking 🧑🏻‍🍳**
 
 *Cooking up something to make it easier to find friends on the court.*
 
-More soon. 👀
+More soon.
 
 ---
 
